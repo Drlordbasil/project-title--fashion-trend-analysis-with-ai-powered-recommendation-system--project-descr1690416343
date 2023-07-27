@@ -1,0 +1,16 @@
+The package requirements for this Python program are:
+
+- pandas
+- numpy
+- nltk
+- tensorflow
+- scikit-learn
+- matplotlib
+- opencv-python
+- tensorflow.keras
+
+You can install these packages by running the following command in your terminal:
+
+```
+pip install pandas numpy nltk tensorflow scikit-learn matplotlib opencv-python tensorflow
+```
