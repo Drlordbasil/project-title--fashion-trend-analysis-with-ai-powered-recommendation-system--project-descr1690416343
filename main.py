@@ -130,6 +130,9 @@ def fashion_style_generation(customer_preferences):
     # Load customer preferences
     # ...
 
+    # Updated: customer_preferences should be split into a list
+    customer_preferences = customer_preferences.split(',')
+
     # Pre-process the customer preferences data
     # ...
 
